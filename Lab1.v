@@ -1,8 +1,8 @@
 module Lab1 (
-    input a,
-    output b
+    input butnS2_n,
+    output led
 );
 
-assign b = a;
+assign led = butnS2_n;
 
 endmodule
